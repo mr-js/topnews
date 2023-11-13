@@ -1,0 +1,6 @@
+aiohttp==3.8.5
+aiohttp_socks==0.8.0
+fake_useragent==1.2.1
+lxml==4.9.3
+Requests==2.31.0
+tqdm==4.66.1
